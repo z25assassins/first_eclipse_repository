@@ -1,0 +1,4 @@
+#Mon May 11 22:41:47 MDT 2015
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=STK
